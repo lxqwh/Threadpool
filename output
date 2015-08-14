@@ -1,0 +1,46 @@
+I will create 10 threads
+there are still 10 tasks need to handle
+tid 3086535568 run
+this is the first thread running
+tid 3084434320 run
+this is the first thread running
+tid 3082333072 run
+this is the first thread running
+tid 3080231824 run
+this is the first thread running
+tid 3078130576 run
+this is the first thread running
+tid 3076029328 run
+this is the first thread running
+tid 3073928080 run
+this is the first thread running
+tid 3071826832 run
+this is the first thread running
+tid 3069725584 run
+this is the first thread running
+tid 3067624336 run
+this is the first thread running
+there are still 0 tasks need to handle
+Now I will end all threads!!
+tid:3086535568 idle
+tid:3078130576 idle
+thread 3078130576 will exit
+tid:3076029328 idle
+thread 3076029328 will exit
+tid:3073928080 idle
+thread 3073928080 will exit
+tid:3071826832 idle
+thread 3071826832 will exit
+tid:3069725584 idle
+thread 3069725584 will exit
+tid:3067624336 idle
+thread 3067624336 will exit
+tid:3084434320 idle
+thread 3084434320 will exit
+thread 3086535568 will exit
+tid:3082333072 idle
+thread 3082333072 will exit
+tid:3080231824 idle
+thread 3080231824 will exit
+there are still 0 tasks need to handle
+Now I will exit from main
